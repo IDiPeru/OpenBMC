@@ -1,2 +1,2 @@
 # OpenBMC
-Online integrated BMC application.
+Online open and integrated BMC application.
